@@ -1,4 +1,4 @@
-name: Build and Push the mysql and web application image to AWS ECR
+name: Build and Push the mysql and web application image to the AWS ECR
 
 on:
   pull_request:
